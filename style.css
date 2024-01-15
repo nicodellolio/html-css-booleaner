@@ -34,4 +34,24 @@ h1{
     height:500px;
 }
 
+main{
+    font-size: larger;
+}
 
+table{
+    text-align: center;
+    margin: 50px 10px 0px 10px;
+    background-color: #a9dbf3;
+}
+
+th{
+    background-color: #03a9f4;
+}
+
+#th1,#th2{
+    width: 20%;
+}
+
+#tr2{
+    background-color: white;
+}
