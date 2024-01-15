@@ -3,9 +3,35 @@
     margin: 0;
 }
 
+div{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
 #head_pattern{
    background-image: url(./img/pattern.png);
    background-color: #03a9f4;
    padding-top: 5%;
    padding-left: 10px;
+   margin: 0;
 }
+
+#date{
+    color: gray;
+}
+
+#author{
+    font-size: x-large;
+    color: gray;
+}
+
+h1{
+   font-size: 300%;
+}
+
+
+.tim{
+    height:500px;
+}
+
+
