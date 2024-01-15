@@ -1,4 +1,7 @@
-* {
+body{
+    width: 1500px;
+    margin: auto;
+} * {
     box-sizing: border-box;
     margin: 0;
 }
@@ -46,6 +49,7 @@ table{
 
 th{
     background-color: #03a9f4;
+    color: white;
 }
 
 #th1,#th2{
@@ -55,3 +59,26 @@ th{
 #tr2{
     background-color: white;
 }
+
+footer{
+    font-family: 'DM Serif Display', serif;
+    font-size: larger;
+    color: gray;
+}
+
+div.foot{
+    font-size: xx-large;
+    color: white;
+    height: 207px;
+    background-repeat: no-repeat;
+    padding-left: 10px;
+}
+
+div.img1{
+    background-image: url(./img/monitor.jpg);
+}
+
+div.img2{
+    background-image: url(./img/graph.jpg);
+}
+
