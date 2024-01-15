@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#head_pattern{
+   background-image: url(./img/pattern.png);
+   background-color: #03a9f4;
+   padding-top: 5%;
+   padding-left: 10px;
+}
