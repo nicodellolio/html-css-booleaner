@@ -1,7 +1,9 @@
 body{
     width: 1500px;
     margin: auto;
-} * {
+} 
+
+* {
     box-sizing: border-box;
     margin: 0;
 }
@@ -31,7 +33,6 @@ div{
 h1{
    font-size: 300%;
 }
-
 
 .tim{
     height:500px;
