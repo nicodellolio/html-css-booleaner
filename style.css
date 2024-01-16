@@ -46,6 +46,7 @@ table{
     text-align: center;
     margin: 50px 10px 0px 10px;
     background-color: #a9dbf3;
+    border-collapse: collapse;
 }
 
 th{
